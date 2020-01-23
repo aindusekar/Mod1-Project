@@ -30,4 +30,4 @@ Tasked with creating a pitch deck to Microsoft using broken, incomplete, zipped 
 After choosing the best data to use, it is then made into a dataframe, combined, and cleaned.
 The dataframes that were extensively used/manipulated, will be created into 4 data visualizations that will be represented to Individuals with a non-technical background.
 
-You are able to find project instructions, all of the data that was to be used(located in the "Data" file), a technical notebook of all the listed actions and though process that were taken(two separate files that were being worked on by the two project members), and a pitch deck that represents our data with to a non-technical viewer.
+You are able to find project instructions, all of the data that was to be used(located in the "Data" file), a technical notebook of all the listed actions and though process that were taken, and a pitch deck that represents our data with to a non-technical viewer.
